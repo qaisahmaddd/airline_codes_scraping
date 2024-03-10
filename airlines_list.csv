@@ -1,0 +1,1520 @@
+iata_code,airline,country/region,comments
+PR,2GO,Philippines,
+1A,Amadeus IT Group S.A.,Global,GDS and airline hosting system (CRS/PSS)
+1B,Sabre travel network Asia-Pacific (ex-Abacus),APAC,Regional distribution
+1E,Travelsky,China,Local distribution system and hosting system (CRS/PSS)
+1F,"Infini travel information, Inc.",Japan,Local distribution system (CRS)
+1G,Travelport (Galileo core),Global,GDS (CRS)
+1H,Sirena travel,Russia,Local distribution system (CRS) and PSS
+1J,"Axess international network, Inc.",Japan,Local distribution system (CRS)
+1K,AIRKIOSK,Global,Local distribution system (CRS) and PSS
+1M,Sirin,Russia,Local distribution system (CRS) and PSS
+1P,Travelport (Worldspan core),Global,GDS (CRS)
+1S,Sabre travel network,Global,GDS and airline hosting system (CRS/PSS)
+1T,Hitit Computer Services,Turkey,Computer reservation system
+1U,Google/ITA,United States,Airline IT provider
+2T,Timbis Air,Kenya,
+Q5,40-Mile Air,United States,
+4D,Air Sinai,Egypt,Defunct
+4R,Star East Airline[de;fa;it;pl],Romania,
+4O,Interjet,Mexico,Defunct
+5W,Wizz Air Abu Dhabi,United Arab Emirates,
+7B,Bees Airline,Ukraine,"Defunct, AOC revoked due to not having any aircraft."
+AQ,9 Air,China,
+1B,Abacus International,Singapore,Computer reservation system
+BJ,Abaeté Linhas Aéreas,Brazil,defunct
+RL,Abakan-Avia,Russia,
+W9,Abelag Aviation,Belgium,defunct
+M3,ABSA Cargo,Brazil,
+GB,ABX Air,United States,"August 15, 2003 Air operations of formerAirborne Express"
+ZA,AccessAir,United States,defunct
+VX,ACES Colombia,Colombia,defunct
+KI,Adam Air,Indonesia,defunct
+Z7*,ADC Airlines,Nigeria,defunct; former name: Aviation Development Company
+JP,Adria Airways,Slovenia,defunct as of September 2019
+4G*,Advance Leasing Company,United States,
+AN,Advanced Air,United States,2015[2]
+A3,Aegean Airlines,Greece,
+9D,Aero Continente Dominicana,Dominican Republic,defunct
+ML,Aero Costa Rica,Costa Rica,defunct
+DW,Aero-Charter Ukraine,Ukraine,
+SU,Aeroflot,Russia,
+P3,Aeroflot-Plus,Russia,
+OB,Austrian Airtransport,Austria,"defunct; former IATA code: U8, OG; former ICAO code: AUC"
+SM,Allied Airways,United Kingdom,"defunct, taken over byBritish European Airwayswhich went on to formBritish Airways."
+KJ,Asian Air,Kyrgyzstan,
+YE,Aryan Cargo Express,India,
+VJ,Africa Airways,Benin,defunct
+QH,Air Florida,United States,relaunching
+3O,Air Arabia Maroc,Morocco,This ICAO designator was previously used byMalta Air Charter
+HD,AIRDO,Japan,
+UJ,AlMasria Universal Airlines,Egypt,
+A2,Animawings,Romania,
+X9,Avion Express,Lithuania,Name changed from Nordic Solutions Air
+3S*,Aeroland Airways,Greece,"defunct, ICAO code no longer allocated"
+JU,Air Serbia,Serbia,Name changed from Aeroput to JAT Yugoslav Airlines to Jat Airways to Air Serbia. Formerly used JAT as ICAO code.
+QH,Air Kyrgyzstan,Kyrgyzstan,Name changed fromKyrgyzstan
+XK,Air Corsica,France,
+EI,Aer Lingus,Ireland,
+EG,Aer Lingus UK,United Kingdom,
+A8,Aerolink Uganda,Uganda,
+RV,Air Canada Rouge,Canada,
+7A,Aztec Worldwide Airlines,United States,
+6U,Air Cargo Germany,Germany,defunct
+ZI,Aigle Azur,France,Former name:Lucas Aigle Azur; former IATA code: LK
+AE,Air Ceylon,Sri Lanka,defunct
+4K*,Askari Aviation,Pakistan,
+8U,Afriqiyah Airways,Libya,
+Q9,Afrinat International Airlines,Gambia,"defunct, ICAO code no longer allocated"
+KI,Air Atlantique,United Kingdom,"Former name:Atlantic Air Transport; former IATA codes: 7M, DG, transferred to Atlantic Flight Training in 2014."
+QB,Air Alma,Canada,Ceased operations 10/01/2002; former IATA code: 4L
+LD,Air Hong Kong,Hong Kong,
+2Y,Air Andaman,Thailand,defunct 2004
+UX,Air Europa,Spain,
+IG,Air Italy,Italy,merged intoMeridiana
+NX,Air Macau,Macao,
+6A,Armenia Airways,Armenia,
+HM,Air Seychelles,Seychelles,
+AF,Air France,France,
+SB,Air Caledonie International,France,
+EH,Air Nippon Network Co. Ltd.,Japan,merged intoANA Wings
+ED,AirExplore,Slovakia,
+ZW,Air Wisconsin,United States,
+YI,Air Sunshine,United States,
+GN,Air Gabon,Gabon,defunct
+9T,Air ACT,Turkey,
+ZB,Air Albania,Albania,
+3J,Air Alliance,Canada,defunct
+WP,Air Antwerp,Belgium,defunct
+BX,Air Busan,South Korea,
+LB,Air Costa,India,
+GL,Air Greenland,Greenland,
+3S,Air Guyane Express,French Guiana,
+NQ,Air Japan,Japan,
+IJ,Air Liberté,France,defunct
+TT,Air Lithuania,Lithuania,defunct
+QM,Air Malawi,Malawi,defunct
+L6,Air Maldives,Maldives,defunct
+ML,Air Mediterranee,France,defunct
+P8,Air Mekong,Vietnam,defunct
+ZQ,Air Montenegro,Montenegro,
+NZ,Air New Zealand,New Zealand,"""NZ"" used byNew Zealand National Airways Corporationuntil its merger with Air New Zealand in 1978""TE"" used byTEALfrom 1940-1965, then Air New Zealand from 1965-1990"
+4N,Air North Charter- Canada,Canada,
+YP,Air Premia,South Korea,
+BM,Air Sicilia,Italy,defunct
+ZX,Air BC,Canada,Merged intoAir Canada Jazz
+G8,Air Service Gabon,Gabon,defunct
+7T,Air Glaciers,Switzerland,
+6V,Air Vegas,United States,defunct
+NH,All Nippon Airways,Japan,
+TZ,air-taxi Europe,Germany,
+2Q,Air Cargo Carriers,United States,
+V7,Air Senegal International,Senegal,defunct
+AB,Air Berlin,Germany,defunct
+4D,Air Sinai,Egypt,
+QN,Air Armenia,Armenia,
+AI,Air IndiaLimited,India,
+PJ,Air Saint Pierre,France,
+SZ,Air Southwest,United Kingdom,defunct
+8C,Air Transport International,United States,
+NF,Air Vanuatu,Vanuatu,
+ZB,Air Bourbon,Reunion,defunct
+CC,Air Atlanta Icelandic,Iceland,
+RB,Air Srpska,Bosnia and Herzegovina,defunct
+TN,Air Tahiti Nui,France,
+SW,Air Namibia,Namibia,defunct
+AW,Africa World Airlines,Ghana,
+PE,Air Europe Italy,Italy,defunct
+JM,Air Jamaica,Jamaica,merged intoCaribbean Airlines; ICAO and IATA codes no longer used.
+6G,Air Wales,United Kingdom,"defunct, ICAO code no longer allocated"
+TX,Air Caraïbes,France,
+IX,Air India Express,India,
+BT,Air Baltic,Latvia,
+EL,Air Nippon,Japan,"merged intoAll Nippon Airways, ICAO code no longer allocated"
+YW,Air Nostrum,Spain,
+PX,Air Niugini,Papua New Guinea,
+G9,Air Arabia,United Arab Emirates,
+AC,Air Canada,Canada,
+AP,AlbaStar,Spain,
+E9,Air Memphis,Egypt,defunct
+XT,Air Exel,Netherlands,defunct
+UM,Air Zimbabwe,Zimbabwe,
+S2,Air Sahara,India,renamed to Jetlite
+TC,Air Tanzania,Tanzania,
+2J,Air Burkina,Burkina Faso,
+KM,Air Malta,Malta,
+YT,Air Togo,Togo,defunct
+G4,Allegiant Air,United States,
+O4,Antrak Air,Ghana,
+GB,Airborne Express,United States,"August 14, 2003 merged into DHL"
+8T,Air Tindi,Canada,
+3L,Air Arabia Abu Dhabi,United Arab Emirates,
+EM*,Aero Benin,Benin,defunct
+KD,Air Enterprise,France,defunct
+AX,AmericanConnection[8],United States,defunct
+AN,Ansett Australia,Australia,defunct
+5W,Astraeus,United Kingdom,"defunct, ICAO code no longer allocated"
+VV,Aerosvit Airlines,Ukraine,defunct
+WK,American Falcon,Argentina,defunct
+QQ,Alliance Airlines,Australia,
+FG,Ariana Afghan Airlines,Afghanistan,
+RV*,Africaone,The Gambia,
+Y2,Alliance Air,Uganda,Ceased operations 08/10/2000
+5Z,Airfreight Express,United Kingdom,Ceased operations 08/03/2002
+5D,Aeroméxico Connect,Mexico,
+1A,Amadeus IT Group,Spain,
+JJ,Aviogenex,Serbia,defunct
+PL,Aeroperú,Peru,defunct
+8A,Atlas Blue,Morocco,defunct
+GD,Air Alpha Greenland,Denmark,sold toAir Greenland
+HT,Aeromist-Kharkiv,Ukraine,defunct
+J2,Azerbaijan Airlines,Azerbaijan,
+U3,Avies,Estonia,
+4Y,Airbus Industrie,France,
+KJ,Air Incheon,South Korea,
+RS,Air Seoul,South Korea,
+5A,Alpine Air Express,United States,
+ED*,Airblue,Pakistan,
+W4,Aero Services Executive,France,
+IZ,Arkia Israel Airlines,Israel,
+M6,Amerijet International,United States,
+4A,Air Kiribati,Kiribati,
+EV,Atlantic Southeast Airlines,United States,Merged intoExpressJet Airlines
+HP,America West Airlines,United States,Merged withUS Airways
+6R,Aerotransporte de Carga Union,Mexico,
+VH,Aeropostal Alas de Venezuela,Venezuela,
+DP,Air 2000,United Kingdom,defunct
+TZ,ATA Airlines,United States,defunct
+YJ,AMC Airlines,Egypt,Aircraft Maintenance Company
+AM,Aeroméxico,Mexico,
+TL,Airnorth,Australia,
+OY,Andes Líneas Aéreas,Argentina,
+IW,AOM French Airlines,France,defunct
+J6,AVCOM,Russia,
+2D,Aero VIP,Argentina,defunct
+VB,Aeroenlaces Nacionales,Mexico,Former ICAO code: AEN
+OE,Asia Overnight Express,Philippines,
+GV,Aero Flight,Germany,defunct
+JW,Arrow Air,United States,defunct
+2B,Albawings,Albania,
+4C,"Aires, Aerovías de Integración Regional, S.A.",Colombia,renamed to LAN Colombia
+AR,Aerolíneas Argentinas,Argentina,
+AS,"Alaska Airlines, Inc.",United States,
+PL,Airstars,Russia,defunct
+OB,Astrakhan Airlines,Russia,defunct
+HC,Aero-Tropics Air Services,Australia,defunct
+FO,Airlines of Tasmania,Australia,
+OS,Austrian Airlines,Austria,
+IQ,Augsburg Airways,Germany,defunct
+RU,AirBridge Cargo,Russia,Former IATA: BO
+GR,Aurigny Air Services,United Kingdom,
+NO,Aus-Air,Australia,defunct
+AU,Austral Líneas Aéreas,Argentina,
+K8,Airlink Zambia,Zambia,Zambia Skyways Limited
+4Y,Airbus Transport International,France,
+B9,Air Bangladesh,Bangladesh,defunct
+AK,AirAsia,Malaysia,ICAO code no longer allocated
+D7,AirAsia X,Malaysia,
+DJ,AirAsia Japan,Japan,defunct
+I5,AirAsia India,India,Founded 28. Mar 2013
+6V,Axis Airways,France,defunct
+EX,Atlantic Airlines,United States,
+3G,Atlant-Soyuz Airlines,Russia,defunct
+AZ,Alitalia,Italy,defunct
+ZE,Arcus-Air Logistic,Germany,
+A2,Astra Airlines,Greece,
+R7,Aserca Airlines,Venezuela,
+RX,Aviaexpress,Hungary,defunct
+MQ,American Eagle Airlines,United States,"RenamedEnvoy Air, ICAO Code and Callsign withdrawn in 2014"
+ZS,Azzurra Air,Italy,defunct
+FF,Airshop,Netherlands,
+ML,African Transport Trading and Investment Company,Sudan,
+WI,Aero Air,United States,
+VU,Air Ivoire,Ivory Coast,defunct
+BP,Air Botswana,Botswana,
+GS,Air Foyle,United Kingdom,"defunct, ICAO code no longer allocated"
+VT,Air Tahiti,French Polynesia,
+3N,Air Urga,Ukraine,
+VL,Air VIA,Bulgaria,
+FK,Africa West,Togo,
+G2,Avirex,Gabon,
+V8,ATRAN Cargo Airlines,Russian Federation,
+K6,Angkor Air,Cambodia,
+CA,Air China,China,
+Q6,Aero Condor Peru,Peru,
+5F,Arctic Circle Air Service,United States,defunct 2011
+QC,Air Corridor,Mozambique,defunct
+NV,Air Central,Japan,Ceased operations 2010
+CV,Air Chathams,New Zealand,
+CW,Air Marshall Islands,Marshall Islands,
+AH,Air Algérie,Algeria,
+ER,Astar Air Cargo,United States,"defunct, DHL"
+EN,Air Dolomiti,Italy,
+NM,Air Madrid,Spain,defunct
+6R,Alrosa Air Company,Russia,
+EE,Aero Airlines,Estonia,defunct
+4F,Air City,Germany,
+E8,Alpi Eagles,Italy,"defunct, ICAO code no longer allocated"
+RF,Aero K,South Korea,established in May 2016; commenced operations on 15 April 2021
+KY,Air São Tomé and Príncipe,São Tomé and Príncipe,defunct
+E2/E6,Eurowings Europe,Austria,
+PC,Air Fiji,Fiji,defunct
+JH,Fuji Dream Airlines,Japan,
+OF,Air Finland,Finland,
+FJ,Fiji Airways,Fiji,
+RC,Atlantic Airways,Faroe Islands,
+QH,Aero Leasing,United States,dba Air Florida
+NY,Air Iceland,Iceland,
+2P,Air Philippines,Philippines,
+ZX,Air Georgian,Canada,
+2U,Air Guinee Express,Guinea,
+0A,Amber Air,Lithuania,
+DA,Air Georgia,Georgia,
+LL,Allegro,Mexico,defunct (IATA code reallocated)
+5Y,Atlas Air,United States,
+GG,Air Guyane,French Guiana,
+H9,Air d'Ayiti,Haiti,
+GG,Air Comores International,Comoros,
+HD,Air Holland,Netherlands,defunct
+8C,Air Horizon,Togo,
+W9,Air Bagan,Myanmar,
+IP,Atyrau Air Ways,Kazakhstan,
+QK,Air Canada Jazz,Canada,
+KK,Atlasjet,Turkey,
+JS,Air Koryo,Democratic People's Republic of Korea,
+KC,Air Astana,Kazakhstan,
+LV,Albanian Airlines,Albania,
+3S,Aerologic,Germany,
+QP,Akasa Air,India,
+H7,Air Alfa,Turkey,
+D4,Alidaunia,Italy,
+9I,Air India Regional,India,
+XL,Aerolane,Ecuador,Líneas Aéreas Nacionales Del Ecuador
+4Z,Airlink,South Africa,
+FL,Air Leap,Sweden,[12]
+A6,Air Alps Aviation,Austria,
+TD,Atlantis European Airways,Armenia,defunct
+L8,Air Luxor GB,Guinea-Bissau,
+LK,Air Luxor,Portugal,ICAO code no longer allocated
+MK,Air Mauritius,Mauritius,
+MD,Air Madagascar,Madagascar,
+9U,Air Moldova,Moldova,
+L9,Air Mali,Mali,defunct
+A7,Air Plus Comet,Spain,
+QO,Aeromexpress,Mexico,
+MR,Air Mauritanie,Mauritania,
+2V*,Amtrak,United States,Train services only
+F4,Albarka Air,Nigeria,
+AJ,Aero Contractors,Nigeria,
+8Y,Air Burundi,Burundi,
+OT,Aeropelican Air Services,Australia,
+AD,Air Paradise International,Indonesia,Defunct 2005
+QD,Air Class Líneas Aéreas,Uruguay,
+QS,African Safari Airways,Kenya,
+4Y,Airbus France,France,
+AG,Aruba Airlines,Aruba,
+MC,Air Mobility Command,United States,United States Air Force
+RE,Aer Arann,Ireland,
+UU,Air Austral,France,
+ZP,Amaszonas Paraguay,Paraguay,
+6K,Asian Spirit,Philippines,
+A5,Airlinair,France,
+NZ,Air Nelson,New Zealand,defunct
+QL,Aero Lanka,Sri Lanka,
+R3,Armenian Airlines,Armenia,defunct
+MV,Air Mediterranean,Greece,
+2O,Air Salone,Sierra Leone,
+U8,Armavia,Armenia,"defunct, ICAO code no longer allocated"
+BQ,Aeromar Lineas Aereas Dominicanas,Dominican Republic,defunct
+P5,AeroRepública,Colombia,
+E4,Aero Asia International,Pakistan,defunct
+BF,Aero-Service,Republic of the Congo,
+5L,AeroSur,Bolivia,
+EX,Air Santo Domingo,Dominican Republic,
+JR,Aero California,Mexico,
+Z3,Avient Aviation,Zimbabwe,
+M3,Air Service,Macedonia,
+8D*,Astair,Russian Federation,Name changed toInteravia Airlines
+GM,Air Slovakia,Slovakia,ICAO code no longer allocated
+R3,Aircompany Yakutia,Russia,
+HC,Air Senegal,Senegal,
+VW,Aeromar,Mexico,
+JY,Air Turks and Caicos,Turks and Caicos Islands,ICAO code no longer allocated
+CG,Airlines PNG,Papua New Guinea,
+TY,Air Calédonie,France,
+FL,AirTran Airways,United States,"defunct, last flight 12/30/2014, now part of Southwest Airlines"
+TS,Air Transat,Canada,
+EC,Avialeasing Aviation Company,Uzbekistan,
+U7,Air Uganda,Uganda,
+6U,Air Ukraine,Ukraine,
+KO,Alaska Central Express,United States,
+KH,Aloha Air Cargo,United States,
+AQ,Aloha Airlines,United States,defunct; former IATA code: TS
+AA,American Airlines,United States,
+WD*,Amsterdam Airlines,Netherlands,Former IATA code: FH*. ICAO code and call sign no longer allocated
+HO,Antinea Airlines,Algeria,defunct
+OZ,Asiana Airlines,South Korea,
+AG,ASL Airlines Ireland,Ireland,"Former IATA Code: AG; former names: Hunting Air Cargo Airlines, Air Contractors"
+8V,Astral Aviation,Kenya,
+XM,Australian airExpress,Australia,
+AO,Australian Airlines,Australia,Subsidiary merged withQantas
+XP,Avelo Airlines,United States,"Former ICAO code: CXP; former names: Casino Express Airlines, Xtra Airways"
+VE,Avensa,Venezuela,defunct
+6A,Aviacsa,Mexico,
+AV,Avianca,Colombia,
+A0,Avianca Argentina,Argentina,Owned bySynergy Group
+O6,Avianca Brasil,Brazil,Owned bySynergy Group
+2K,Avianca Ecuador,Ecuador,Aerolíneas Galápagos SA
+V5,Avolar Aerolíneas,Mexico,defunct
+AD,Azul Linhas Aéreas Brasileiras,Brazil,
+CJ,BA CityFlyer,United Kingdom,
+TH,BA Connect,United Kingdom,defunct
+B4,BACH Flugbetriebsges,Austria,
+J4,Badr Airlines,Sudan,
+UP,Bahamasair,Bahamas,
+8Q*,Baker Aviation,United States,
+V9,BAL Bashkirian Airlines,Russia,
+LZ,Balkan Bulgarian Airlines,Bulgaria,defunct
+BQ,Baltia Air Lines,United States,"Callsign changed from ""BALTIA FLIGHT"" in 2015[14]"
+QH,Bamboo Airways,Vietnam,
+QO,Bar Harbor Airlines,United States,
+B3,Bhutan Airlines,Bhutan,
+L9,Belle Air Europe,Italy,PreviouslyBritannia Airways
+BA,British Airways,United Kingdom,
+BG,Biman Bangladesh Airlines,Bangladesh,
+BO,Bluebird Nordic,Iceland,
+BO,BB Airways,Nepal,
+SI,Blue Islands,United Kingdom,
+EO,British Caribbean Airways,United Kingdom,defunct
+WX,CityJet,Ireland,
+BZ,Blue Dart Aviation,India,
+JA,B&H Airlines,Bosnia and Herzegovina,
+J4,Buffalo Airways,Canada,
+8H,BH Air,Bulgaria,
+A8,Benin Golf Air,Benin,
+U4,Buddha Air,Nepal,
+UH,Bristow Helicopters,United Kingdom,
+4T,Belair Airlines,Switzerland,
+E6,Bringer Air Cargo Taxi Aéreo,Brazil,
+BS,British International Helicopters,United Kingdom,
+B4,Bankair,United States,
+PG,Bangkok Airways,Thailand,
+KF,Blue1,Finland,
+JV,Bearskin Lake Air Service,Canada,
+B3,Bellview Airlines,Nigeria,
+BD,BMI,United Kingdom,defunct
+BM,BMI Regional,United Kingdom,
+WW,Bmibaby,United Kingdom,defunct
+CH,Bemidji Airlines,United States,
+5Z,Bismillah Airlines,Bangladesh,IATA code in use by another company
+BN,Braniff International Airways,United States,defunct
+AB,Bonza,Australia,
+BO,Bouraq Indonesia Airlines,Indonesia,
+BV,Blue Panorama Airlines,Italy,
+7R,BRA-Transportes Aéreos,Brazil,
+8E,Bering Air,United States,
+TH,British Regional Airlines,United Kingdom,defunct
+B2,BelaviaBelarusian Airlines,Belarus,
+GQ,Big Sky Airlines,United States,
+ID,Batik Air,Indonesia,
+4B,Boutique Air,United States,
+Y6,Batavia Air,Indonesia,"As of June 1, 2010, IATA code changed to Y6."
+L9,Bristow U.S. LLC,United States,
+1T,Bulgarian Air Charter,Bulgaria,
+BU,Buryat Airlines Aircompany,Russia,
+J8,Berjaya Air,Malaysia,
+B3,"Bellview Airlines, Sierra Leone",Sierra Leone,
+QW,Blue Wings,Germany,defunct
+SN,Brussels Airlines,Belgium,defunct asBrussels International Airlinesin 2001
+DB,Brit Air,France,
+JD,Beijing Capital Airlines,China,
+E9,Boston-Maine Airways,United States,Pan Am Clipper ConnectionPan Am III
+SN,Brussels Airlines,Belgium,
+NT,Binter Canarias,Spain,
+0B,Blue Air,Romania,
+KJ,British Mediterranean Airways,United Kingdom,defunct
+FB,Bulgaria Air,Bulgaria,
+8N,Barents AirLink,Sweden,previously Nordkalottflyg
+OB,Boliviana de Aviación,Bolivia,
+YB,Borajet,Turkey,
+MX,Breeze Airways,United States,
+VL,City Airlines,Germany,LH subsidiary Allocated in 2023[15]
+4A,California Pacific Airlines,United States,defunct
+QC,Camair-Co,Cameroon,
+KR,Cambodia Airways,Cambodia,
+5C,Challenge Airlines IL,Israel,ex CAL-Cargo Air Lines
+AW,CHC Airways,Netherlands,"formerly Schreiner Airways. ICAO code in use by another company, call sign no longer allocated"
+3C,Calima Aviación,Spain,
+MO,Calm Air,Canada,
+R9,Camai Air,United States,Village Aviation
+K6,Cambodia Angkor Air,Cambodia,
+UY,Cameroon Airlines,Cameroon,defunct
+C6,CanJet,Canada,
+CP,Canadian Airlines,Canada,defunct
+7F,Canadian North,Canada,Air Norterra
+CP,Canadian Pacific Airlines,Canada,ICAO Code and callsign no longer allocated
+W2,Canadian Western Airlines,Canada,
+9K,Cape Air,United States,
+PT,Capital Cargo International Airlines,United States,Allocation deleted 2013
+GG,Cargo 360,United States,
+P3,Cargo Logic Air,United Kingdom,
+2G,Cargoitalia,Italy,
+W8,Cargojet Airways,Canada,
+CV,Cargolux,Luxembourg,
+C8,Cargolux Italia,Italy,
+BW,Caribbean Airlines,Trinidad and Tobago,
+8B,Caribbean Star Airlines,Antigua and Barbuda,
+V3,Carpatair,Romania,
+RV,Caspian Airlines,Iran,
+KA,Cathay Dragon,Hong Kong,defunct
+CX,Cathay Pacific,Hong Kong,
+KX,Cayman Airways,Cayman Islands,
+5J,Cebu Pacific,Philippines,
+2C,CMA-CGM AIRCARGO,France,
+9M,Central Mountain Air,Canada,
+J7,Centre-Avia,Russia,
+WE,Centurion Air Cargo,United States,
+GM,Chair Airlines,Switzerland,
+OP,Chalk's International Airlines,United States,
+MG,Champion Air,United States,
+2Z,Chang An Airlines,China,
+S8,Chari Aviation Services,Chad,
+RP*,Chautauqua Airlines,United States,Was US*
+C8,Chicago Jet Group,United States,
+CI,China Airlines,Taiwan,
+CK,China Cargo Airlines,China,
+MU,China Eastern Airlines,China,
+G5,China Express Airlines,China,
+CJ,China Northern Airlines,China,defunct.
+WH,China Northwest Airlines,China,defunct
+8Y,China Postal Airlines,China,
+CZ,China Southern Airlines,China,
+KN,China United Airlines,China,
+XO,China Xinhua Airlines,China,
+3Q,China Yunnan Airlines,China,defunct
+X7,Chitaavia,Russia,
+OQ,Chongqing Airlines,China,
+A2,Cielos Airlines,Peru,
+QI,Cimber Sterling,Denmark,
+C7,Cinnamon Air,Sri Lanka,
+C9,Cirrus Airlines,Germany,defunct
+G3,City Connexion Airlines,Burundi,defunct
+WX,CityJet,Ireland,
+CJ,CityFlyer Express,United Kingdom,"Defunct, ICAO code in use byBA CityFlyer"
+CT,Civil Air Transport,Taiwan,defunct
+6P,Club Air,Italy,
+BX,Coast Air,Norway,
+DQ,Coastal Air,United States,
+9L,Colgan Air,United States,
+YD,Cologne Air Transport GmbH,Germany,defunct since 1996
+OH,Comair,United States,
+MN,Comair,South Africa,
+C5,CommutAir,United States,
+KR,Comores Airlines,Comoros,
+CP,Compass Airlines,United States,
+DE,Condor Flugdienst,Germany,
+CO,Continental Airlines,United States,"ICAO Code and callsign withdrawn, merged withUnited Airlines"
+CO,Continental Express,United States,
+CS,Continental Micronesia,United States,
+CS,Cambrian Airways,United Kingdom,defunct 1974
+V0,Conviasa,Venezuela,
+CM,Copa Airlines,Panama,
+CQ,Central Charter,Czech Republic,
+XC,Corendon Airlines,Turkey,Turistik Hava Tasimacilik
+CD,Corendon Dutch Airlines,Netherlands,
+LF,Contour Airlines,United States,
+SS,Corsairfly,France,
+XK,Corse Méditerranée,France,Name changed toAir Corsica
+F5,Cosmic Air,Nepal,
+GW,Costa Rica Green Airways,Costa Rica,
+7C,Coyne Aviation,United Kingdom,
+OU,Croatia Airlines,Croatia,
+QE,Crossair Europe,Switzerland,
+CU,Cubana de Aviación,Cuba,
+CY,Cyprus Airways,Cyprus,
+YK,Cyprus Turkish Airlines,Turkey,Ceased operations 2010
+OK,Czech Airlines,Czech Republic,
+8L,Cargo Plus Aviation,United Arab Emirates,
+5Z,CemAir,South Africa,
+XG,Clickair,Spain,Merge intoVueling
+PN,West Air (China),China,
+V5,DanubeWings,Slovakia,Former names VIP Air and VIP Wings
+WD,DAS Air Cargo,Uganda,
+DX,DAT Danish Air Transport,Denmark,
+D0,DHL Air Limited,United Kingdom,DHL Air UK
+ES,DHL International,Bahrain,
+L3,DHL de Guatemala,Guatemala,
+D3,Daallo Airlines,Djibouti,
+N2,Dagestan Airlines,Russia,
+CA,Dalian Airlines,China,
+H8,Dalavia,Russia,
+DD,Danish Air Lines,Denmark,defunct
+0D,Darwin Airline,Switzerland,
+D5,Dauair,Germany,
+DL,Delta Air Lines,United States,
+J7,Denim Air,Netherlands,Defunct
+2A,Deutsche Bahn,Germany,
+1I,Deutsche Rettungsflugwacht,Germany,
+AW,Dirgantara Air Service,Indonesia,
+DH,Discovery Airways,United States,
+Z6,Dniproavia,Ukraine,
+YU,Dominair,Dominican Republic,"defunct; former IATA code: SS; former name: Aerolíneas Dominicanas, ICAO code no longer allocated"
+DO,Dominicana de Aviación,Dominican Republic,defunct
+E3,Domodedovo Airlines,Russia,defunct
+D9,Donavia,Russia,formerly Aeroflot-Don
+5D,DonbassAero,Ukraine,
+DZ,Donghai Airlines,China,
+KB,Druk Air,Bhutan,
+DI,Dba,Germany,Merged into Air Berlin
+MQ,Envoy Air,United States,2014[22]
+EL,Ellinair,Greece,
+9E,Endeavor Air,United States,
+E1,Everbread,United Kingdom,
+1C,Electronic Data Systems,Switzerland,
+1Y,Electronic Data Systems,United States,
+VE,EUjet,Ireland,defunct
+H7,Eagle Air,Uganda,
+NZ,Eagle Airways,New Zealand,
+9A,Eagle Express Air Charter,Malaysia,
+S9,East African Safari Air,Kenya,
+ZE,Eastar Jet,South Korea,
+EA,Eastern Air Lines,United States,defunct
+T3,Eastern Airways,United Kingdom,
+QF,Eastern Australia Airlines,Australia,IATA dupe with parent QANTAS. Also uses 2 letter ICAO EA.
+DK,Eastland Air,Australia,
+W9,Eastwind Airlines,United States,defunct
+EC,easyJet Europe,Austria,
+DS,easyJet Switzerland,Switzerland,
+U2,easyJet UK,United Kingdom,
+WK,Edelweiss Air,Switzerland,
+MS,Egyptair,Egypt,
+LY,El Al Israel Airlines,Israel,
+UZ,El-Buraq Air Transport,Libya,
+EA,Emerald Airlines,Ireland,
+EK,Emirates Airlines,United Arab Emirates,
+EM,Empire Airlines,United States,
+EU,Empresa Ecuatoriana De Aviación,Ecuador,
+G8,EnkorJSC,Russia,
+OF,Enter Air,Poland,
+E0,Eos Airlines,United States,
+B8,Eritrean Airlines,Eritrea,
+E7,Estafeta Carga Aérea,Mexico,
+OV,Estonian Air,Estonia,
+ET,Ethiopian Airlines,Ethiopia,
+EY,Etihad Airways,United Arab Emirates,
+RZ,Euro Exec Express,Sweden,
+MM,EuroAtlantic Airways,Portugal,
+UI,Eurocypria Airlines,Cyprus,
+GJ,Eurofly,Italy,
+K2,Eurolot,Poland,
+3W,Euromanx Airways,Austria,
+5O,Europe Airpost,France,
+EA,European Air Express,Germany,
+QY,European Air Transport,Belgium,
+E7,European Aviation Air Charter,United Kingdom,
+EW,Eurowings,Germany,
+4Y,Eurowings Discover,Germany,
+E6,Eurowings Europe,Malta,
+BR,EVA Air,Taiwan,
+EZ,Evergreen International Airlines,United States,
+ZD,Ewa Air,France,
+JN,Excel Airways,United Kingdom,
+MB,Execair Aviation,Canada,
+OW,Executive Airlines,United States,American Eagle
+EO,Express One International,United States,defunct
+EV,ExpressJet,United States,
+8K,Exploits Valley Air Services,Canada,
+IH,Falcon Aviation,Sweden,
+FE,Far Eastern Air Transport,Taiwan,
+FD,Royal Flying Doctor Service,Australia,
+F6,FaroeJet,Faroe Islands,
+F3,Faso Airways,Burkina Faso,
+FX,FedEx Express,United States,
+N8,Fika Salaama Airlines,Uganda,
+4S,Finalair Congo,Republic of the Congo,
+AY,Finnair,Finland,
+FC,Finncomm Airlines,Finland,
+FY,Firefly,Malaysia,
+7F,First Air,Canada,
+8F,Fischer Air,Czech Republic,
+8D,FitsAir,Sri Lanka,
+F8,Flair Airlines,Canada,
+B5,Flightline,United Kingdom,defunct
+PA,Florida Coastal Airlines,United States,
+RF,Florida West International Airways,United States,"merged intoAtlas Air Worldwide Holdings; defunct as of 28 February 2017, IATA code now allocated to another user"
+F2,Fly Air,Turkey,
+8W,Fly All Ways,Suriname,
+G6,Fly Arna,Armenia,
+9Y,Fly Georgia,Georgia,
+OJ,Fly Jamaica Airways,Jamaica,defunct
+9P,Fly Jinnah,Pakistan,
+SH,Fly Me Sweden,Sweden,
+FP,Fly Pro,Moldova,
+6P,Fly Wex,Italy,
+F6,Fly2Sky,Bulgaria,
+D7,FlyAsianXpress,Malaysia,
+F7,Flybaboo,Switzerland,
+BE,Flybe,United Kingdom,
+FO,Flybondi,Argentina,
+FT,FlyEgypt,Egypt,
+Y2,Flyglobespan,United Kingdom,defunct
+SX,FlyGTA Airlines,Canada,
+W3,Flyhy Cargo Airlines,Thailand,
+TE,FlyLal,Lithuania,defunct
+XY,Flynas,Saudi Arabia,
+LF,FlyNordic,Sweden,defunct
+FP,FlyPelican,Australia,Pelican Airlines Pty Ltd since 1 June 2015
+FS,Flyr,Norway,
+VK,FlyViking,Norway,defunct
+VY,Formosa Airlines,Taiwan,defunct
+BN,Forward Air International Airlines,United States,
+5F,FlyOne,Moldova,Allocated in 2016
+3F,FlyOne Armenia,Armenia,
+HK,Four Star Aviation/Four Star Cargo,United States,Virgin Islands
+FH,Freebird Airlines,Turkey,
+SJ,Freedom Air,New Zealand,defunct
+FP,Freedom Air,United States,Aviation Services
+F9,Frontier Airlines,United States,
+2F,Frontier Flying Service,United States,
+FH,Futura International Airways,Spain,defunct
+FZ,Flydubai,UAE,
+Y5,Golden Myanmar Airlines,Myanmar,
+GT,GB Airways,United Kingdom,
+Z5,GMG Airlines,Bangladesh,
+7O,Galaxy Air,Kyrgyzstan,
+1G,Galileo International,United States,
+GC,Gambia International Airlines,Gambia,
+G7,Gandalf Airlines,Italy,
+GA,Garuda Indonesia,Indonesia,
+4G,Gazpromavia,Russia,
+GR,Gemini Air Cargo,United States,
+A9,Georgian Airways,Georgia,
+QB,Georgian National Airlines,Georgia,
+HE,German Airways,Germany,Former name: Luftfahrtgesellschaft Walter
+ST,Germania,Germany,
+4U,Germanwings,Germany,
+GP,APG Airlines,France,
+GH,Globus Airlines,Russia,
+GH,Ghana Airways,Ghana,defunct
+G0,Ghana International Airlines,Ghana,
+6G,Go2Sky,Slovakia,
+G8,GoAir,India,
+GK,Go One Airways,United Kingdom,Defunct?
+G7,GoJet Airlines,United States,
+G3,Gol Transportes Aéreos,Brazil,Brazilian low-cost airline.
+DC,Golden Air,Sweden,
+5Z,Gonini Air Services,Suriname,defunct
+G1,Gorkha Airlines,Nepal,?ICAO
+GV,Grant Aviation,United States,
+ZK,Great Lakes Airlines,United States,
+IJ,Great Wall Airlines,China,
+HB,Greater Bay Airlines,Hong Kong,
+G6,Guine Bissaur Airlines,Guinea-Bissau,
+J9,Guinee Airlines,Guinea,defunct
+G8,Gujarat Airways,India,
+GF,Gulf Air,Bahrain,
+GY,Guyana Airways 2000,,
+H4,Héli Sécurité Helicopter Airlines,France,
+EO,Hewa Bora Airways,Democratic Republic of the Congo,
+A5,Hop!,France,
+H6,Hageland Aviation Services,United States,
+HR,Hahn Air,Germany,
+H1,Hahn Air Systems,Germany,
+HU,Hainan Airlines,China,
+1R,Hainan Phoenix Information Systems,China,
+2T,Haiti Ambassador Airlines,Haiti,
+4R,Hamburg International,Germany,
+X3,Hapag-Lloyd Express,Germany,BecameTUI fly Deutschlandin 2007
+HF,Hapagfly,Germany,BecameTUI fly Deutschlandin 2007
+HB,Harbor Airlines,United States,
+HQ,Harmony Airways,Canada,
+HA,Hawaiian Airlines,United States,
+HP,Hawaiian Pacific Airlines,United States,defunct
+BH,Hawkair,Canada,defunct since 2016
+HN,Heavylift Cargo Airlines,Australia,
+NS,Hebei Airlines,China,
+JB,Helijet,Canada,
+ZU,Helios Airways,Cyprus,defunct since 7 November 2006
+9I,Helitrans,Norway,
+HJ,Hellas Jet,Greece,ceased operation in 2010
+HW,Hello,Switzerland,
+2L,Helvetic Airways,Switzerland,
+UD,Hex'Air,France,
+5K,Hi Fly,Portugal,
+H9,Himalaya Airlines,Nepal,
+H7,HiSky,Moldova,
+H4,HiSky Europe,Romania,
+VM,His Majesty King Maha Vajiralongkorn,Thailand,"holding airline, renamed on his accession[33]"
+H5,Hola Airlines,Spain,
+HC,Holidays Czech Airlines,Czech Republic,
+HX,Hong Kong Airlines,Hong Kong,
+RH,Hong Kong Air Cargo,Hong Kong,
+UO,Hong Kong Express Airways,Hong Kong,
+A6,Hongtu Airlines,China,
+H1,Hooters Air,United States,"The airline was established in 2003 and started operations on March 6, 2003. On April 17, 2006,Hooters Airceased operations, halting scheduled Public Charter service and refunding tickets."
+HH,Hope Air,Canada,
+QX,Horizon Air,United States,
+BN,Horizon Airlines,Australia,defunct
+HJ,HumoAir,Uzbekistan,
+HW,FlyErbil,Iraqi Kurdistan,
+MR,Hunnu Air,Mongolia,
+I4,Island Air Express,United States,2014[34]
+IK,Ikar,Russian Federation,
+1F,INFINI Travel Information,Japan,Computer Reservation System
+1U,ITA Software,United States,Computer reservation system
+IB,Iberia Airlines,Spain,
+II,IBC Airways,United States,
+I2,Iberia Express,Spain,"Charter service, low cost carrier for EU flights of Iberia operating only A320s"
+TY,Iberworld,Spain,
+FW,Ibex Airlines,Japan,
+0C,IBL Aviation,Mauritius,
+C3,Independent Carrier (ICAR),Ukraine,
+HC,Iceland Express,Iceland,defunct
+FI,Icelandair,Iceland,
+V8,Iliamna Air Taxi,United States,
+DH,Independence Air,United States,defunct
+I7,IndiaOne Air,India,
+6E,IndiGo,India,InterGlobe Aviation
+IC,Indian Airlines,India,
+I9,Indigo Airlines,United States,
+VP,Indochina Airlines,Vietnam,defunct
+QZ,Indonesia AirAsia,Indonesia,
+IO,Indonesian Airlines,Indonesia,
+H4,Inter Island Airways,Cape Verde,
+D6,Interair South Africa,South Africa,
+ZA,Interavia Airlines,Russia,
+JY,InterCaribbean Airways,Turks and Caicos Islands,Name changed fromInterisland Airways LimitedandAir Turks & Caicos
+RS,Intercontinental de Aviación,Colombia,
+4O,Interjet,Mexico,
+ID,Interlink Airlines,South Africa,
+N/A,"T3 Aviation, Inc.",United States,2020[36]
+6I,International Business Air,Sweden,was U5
+3L,Intersky,Austria,Defunct
+I4,Interstate Airlines,Netherlands,Defunct
+IR,Iran Air,Iran,Was B9
+EP,Iran Aseman Airlines,Iran,
+IA,Iraqi Airways,Iraq,
+IH,Irtysh Air,Kazakhstan,Old IATA code:IT; old ICAO code:IRT
+2S,Island Express,United States,
+CN,Islands Nationair,Papua New Guinea,
+IF,Islas Airways,Spain,
+WC,Islena De Inversiones,Honduras,
+6H,Israir,Israel,
+AZ,ITA Airways,Italy,
+FS,Itali Airlines,Italy,Former name:Transporti Aerei Italiani; former IATA Code: 9X*; former ICAO code: ACO
+GI,Itek Air,Kyrgyzstan,?ICAO confirmed; IATA not
+H9,Izair,Turkey,
+XM,J-Air,Japan,
+JC,JAL Express,Japan,
+JO,JALways,Japan,
+MT,JMC Airlines,United Kingdom,
+1M,JSC Transport Automated Information Systems,Russia,
+JI,Jade Cargo International,China,defunct
+3X,Japan Air Commuter,Japan,
+JL,Japan Airlines,Japan,Japan Airlines International
+JL,Japan Airlines Domestic,Japan,defunct
+EG,Japan Asia Airways,Japan,defunct
+NU,Japan Transocean Air,Japan,
+JA,JetSMART,Chile,
+JZ,JetSMART Perú,Peru,
+WJ,JetSMART Argentina,Argentina,
+JU,Jat Airways,Serbia,
+VJ,Jatayu Airlines,Indonesia,
+J9,Jazeera Airways,Kuwait,
+7C,Jeju Air,Republic of Korea,
+O2,OLT Express,Poland,"defunct, funded by acquisition of Jet Air and YES Airways"
+9W,Jet Airways,India,
+QJ,Jet Airways,United States,
+PP,Jet Aviation,Switzerland,
+3K,Jetstar Asia Airways,Singapore,
+LS,Jet2.com,United Kingdom,
+B6,JetBlue Airways,United States,
+JF,Jet Asia Airways,Thailand,
+0J,Jetclub,Switzerland,
+SG,JetsGo,Canada,defunct
+JQ,Jetstar,Australia,
+GK,Jetstar Japan,Japan,
+JM,Jetstar Hong Kong Airways,China,
+JX,Jett8 Airlines Cargo,Singapore,defunct
+JO,Jettime,Denmark,
+GX,JetX Airlines,Iceland,
+LJ,Jin Air,South Korea,
+R5,Jordan Aviation,Jordan,
+J4,Jordan International Air Cargo,Jordan,
+XE,JSX (airline),United States,
+6J,Jubba Airways,Somalia,
+HO,Juneyao Airlines,China,2023[38]
+KW,Kharkiv Airlines,Ukraine,
+KD,Kalstar Aviation,Indonesia,
+KD,KD Avia,Russia,
+WA,KLM Cityhopper,Netherlands,
+KL,KLM,Netherlands,
+N2,Kabo Air,Nigeria,
+KI,KaiserAir,United States,"Operates B737-500, B737-700, B737-800"
+K4,Kalitta Air,United States,"Operates B747-400's, B767-300ER's, B777F"
+K9,Kalitta Charters,United States,"Operates Lear 25s, 35s, 36s Falcon 20s, CL601"
+CB*,Kalitta Charters II,United States,"Operates B727-200's, DC9-15 & 30, B737-400's"
+RQ,Kam Air,Afghanistan,
+E2,Kampuchea Airlines,Cambodia,IATA was KT
+V2,Karat,Russia,
+KV,Kavminvodyavia,Russia,
+3Q,KC International Airlines,Cambodia,
+KW,Kelowna Flightcraft Air Charter,Canada,
+M5,Kenmore Air,United States,
+KQ,Kenya Airways,Kenya,
+ZN,Key Airlines,United States,
+KG,Key Lime Air,United States,
+BZ,Keystone Air Service,Canada,
+K6,Khalifa Airways,Algeria,
+X9KO,Khors Aircompany,Ukraine,defunct
+IT,Kingfisher Airlines,India,Defunct Since 2012
+4I,Knighthawk Air Express,Canada,
+Y9,Kish Air,Iran,
+KR,Kitty Hawk Aircargo,United States,defunct
+2K,Kitty Hawk Airways,United States,defunct
+KP,Kiwi International Air Lines,United States,
+KY,Kunming Airlines,China,ICAO code KNA was used by Knight Air
+7K,Kogalymavia Air Company,Russia,
+8J,Komiinteravia,Russia,
+KE,Korean Air,South Korea,
+7B,Krasnojarsky Airlines,Russia,defunct
+K9,Krylo Airlines,Russia,
+GW,Kuban Airlines,Russia,
+VD,Kunpeng Airlines,China,
+KU,Kuwait Airways,Kuwait,
+GO,Kuzu Airlines Cargo,Turkey,
+N5,Kyrgyz Airlines,Kyrgyzstan,
+QH,Kyrgyzstan,Kyrgyzstan,Name changed toAir Kyrgyzstan
+R8,Kyrgyzstan Airlines,Kyrgyzstan,
+FK,Keewatin Air,Canada,
+YL,Libyan Wings,Libya,
+YQ,TAR Aerolineas,Mexico,
+JF,L.A.B. Flying Service,United States,
+LR,LACSA,Costa Rica,
+KG,LAI - Línea Aérea IAACA,Venezuela,
+4M,LATAM Argentina,Argentina,
+JJ,LATAM  Brasil,Brazil,
+UC,LATAM Cargo Chile,Chile,
+LA,LATAM Chile,Chile,
+4C,LATAM Colombia,Colombia,
+LU,LATAM Express,Chile,
+PZ,LATAM Paraguay,Paraguay,
+LP,LATAM Peru,Peru,
+NI,LANICA,Nicaragua,
+L5,Línea Aérea Cuencana,Ecuador,
+LO,LOT Polish Airlines,Poland,"""POLLOT"" is not used in practice. ""LOT"" is used in almost all cases."
+XO,LTE International Airways,Spain,
+L3,LTU Austria,Austria,
+LT,LTU International,Germany,
+N6,Lagun Air,Spain,
+IK,Lankair,Sri Lanka,
+QL,Lankan Cargo,Sri Lanka,
+QV,Lao Airlines,Lao People's Democratic Republic,
+L7,Laoag International Airlines,Philippines,
+NG,Lauda Air,Austria,
+OE[40],LaudaMotion,Austria,
+LQ,Lebanese Air Transport,Lebanon,
+LI,Leeward Islands Air Transport,Antigua and Barbuda,
+LV,Level,Spain and France,
+LN,Libyan Arab Airlines,Libya,
+L7,Línea Aérea SAPSA,Chile,
+QL,Línea Aérea de Servicio Ejecutivo Regional,Venezuela,
+ZE,Líneas Aéreas Azteca,Mexico,defunct
+TM,Linhas Aéreas de Moçambique,Mozambique,
+JT,Lion Air,Indonesia,
+LM,Livingston Energy Flight,Italy,Ceased operations 2010
+LT,LJ Air,China,
+LB,Lloyd Aéreo Boliviano,Bolivia,
+LM,Loganair,United Kingdom,Gained the code LM after beginning independent operations (2017)
+GI,Longhao Airlines,China,
+GJ,Loong Air,China,
+LH,Lufthansa,Germany,
+LH,Lufthansa Cargo,Germany,
+CL,Lufthansa CityLine,Germany,
+L1,Lufthansa Systems,Germany,
+L5,Lufttransport,Norway,
+LG,Luxair,Luxembourg,
+5V,Lviv Airlines,Ukraine,
+L2,Lynden Air Cargo,United States,
+Y9,Lynx Air,Canada,
+L4,Lynx Aviation,United States,Part ofFrontier Airlines
+Z8,Línea Aérea Amaszonas,Bolivia,
+MJ,Líneas Aéreas Privadas Argentinas,Argentina,defunct
+LT,LongJiang Airlines,China,
+Q2,Maldivian (airline),Maldives,
+BF,MarkAir,United States,1984-1995
+WD,Modern Transporte Aereo De Carga,Brazil,
+OD,Malindo Airways,Malaysia,
+AQ,MAP-Management and Planung,Austria,
+M7,MasAir,Mexico,
+MY,MASwings,Malaysia,
+IN,MAT Macedonian Airlines,Macedonia,Defunct
+OM,MIAT Mongolian Airlines,Mongolia,
+MB,MNG Airlines,Turkey,
+CC,Macair Airlines,Australia,
+DM,Maersk Air,Denmark,Defunct
+VB,Maersk Air UK,United Kingdom,"Defunct, later becameDuo Airways"
+W5,Mahan Air,Iran,
+M2,Mahfooz Aviation,Gambia,
+MH,Malaysia Airlines,Malaysia,
+DB,Maleth-Aero,Malta,
+TF,Malmö Aviation,Sweden,
+R5,Malta Air Charter,Malta,Defunct?
+MA,Malév Hungarian Airlines,Hungary,defunct
+RI,Mandala Airlines,Indonesia,
+AE,Mandarin Airlines,Taiwan,
+JE,Mango,South Africa,
+6V,Mars RK,Ukraine,
+M7,Marsland Aviation,Sudan,
+MP,Martinair,Netherlands,
+Q4,Mastertop Linhas Aéreas,Brazil,
+H5,Mavial Magadan Airlines,Russia,
+8M,Maxair,Sweden,
+MY,Maxjet Airways,United States,Defunct
+MW,Maya Island Air,Belize,
+7M,Mayair,Mexico,
+M8,Mekong Airlines,Cambodia,Defunct
+IM,Menajet,Lebanon,
+IG,Meridiana,Italy,Callsign was MERAIR
+MZ,Merpati Nusantara Airlines,Indonesia,
+YV,Mesa Airlines,United States,
+XJ,Mesaba Airlines,United States,
+GJ,Mexicargo,Mexico,defunct
+MX,Mexicana de Aviación,Mexico,
+LL,Miami Air International,United States,"Previous IATA Code ""GL"""
+ME,Middle East Airlines,Lebanon,
+JI,Midway Airlines (1993–2003),United States,defunct
+ML,Midway Airlines (1976–1991),United States,defunct
+YX,Midwest Airlines,United States,
+MY,Midwest Airlines (Egypt),Egypt,
+MJ,Mihin Lanka,Sri Lanka,
+XV,Mississippi Valley Airlines,United States,
+M4,Mistral Air,Italy,renamedPoste Air Cargo
+MW,Mokulele Airlines,United States,Callsign and code changed from BUG/SPEEDBUGGY in 2013
+2M,Moldavian Airlines,Moldova,
+ZB,Monarch Airlines,United Kingdom,defunct October 2017
+8I,Myway Airlines,Italy,
+YM,Montenegro Airlines,Montenegro,"former callsign was ""MONTAIR"""
+5M,Montserrat Airways,Montserrat,
+3R,Moskovia Airlines,Russia,JSC
+M9,Motor Sich Airlines,Ukraine,
+NM,Mount Cook Airline,New Zealand,
+N4,Mountain Air Company,Sierra Leone,
+Z9,MYAirline,Malaysia,defunct
+VZ,MyTravel Airways,United Kingdom,"Defunct, callsign now used byThomas Cook Airlines"
+UB,Myanma Airways,Myanmar,
+8M,Myanmar Airways International,Myanmar,
+M2,MHS Aviation GmbH,Germany,
+6N,Niger Airlines,Niger,
+N5,Fly Easy,India,
+DV,Nantucket Airlines,United States,WAS 9k
+P9,Nas Air,Mali,
+UE,Nasair,Eritrea,
+N4,National Airlines,Chile,
+N7,National Airlines,United States,defunct
+NA,National Airlines,United States,defunct
+N8,National Air Cargo dba National Airlines,United States,
+9Y,National Airways Ethiopia,Ethiopia,
+IN,NAM Air,Indonesia,
+9O,National Airways Cameroon,Cameroon,
+NC,National Jet Systems,Australia,
+CE,Nationwide Airlines,South Africa,
+1N,Navitaire,United States,
+RA,Nepal Airlines,Nepal,wasRoyal Nepal Airlines
+NO,Neos,Italy,
+1I,NetJets,United States,
+EJ,New England Airlines,United States,
+2N,NextJet,Sweden,
+HG,Niki,Austria,
+KZ,Nippon Cargo Airlines,Japan,
+DD,Nok Air,Thailand,
+XW,NokScoot,Thailand,
+5N,Nordavia,Russia,
+JH,Nordeste Linhas Aéreas Regionais,Brazil,
+6N,Nordic Regional,Sweden,
+Y7,NordStar,Russia,
+N4,Nordwind Airlines,Russia,
+N5,Norfolk Air,Norfolk Island,Defunct
+N0,Norse Atlantic Airways,Norway,
+NA,North American Airlines,United States,
+N/A,North Coast Air Services Ltd,Canada,
+N9,North Coast Aviation,Papua New Guinea,
+M3,North Flying,Denmark,
+HW,North-Wright Airways,Canada,
+NC,Northern Air Cargo,United States,
+U7,Northern Dene Airways,Canada,
+7H,Northern Pacific Airways,United States,
+NW,Northwest Airlines,United States,defunctmerged withDelta Air Lines
+FY,Northwest Regional Airlines,Australia,
+J3,Northwestern Air,Canada,
+D8*,Norwegian Air International,Ireland,subsidiary of Norwegian Air Shuttle (Ceased operations 2021)
+DY,Norwegian Air Shuttle,Norway,
+DI,Norwegian Air UK,United Kingdom,subsidiary of Norwegian Air Shuttle (Ceased operations 2021)[47]
+DN,Norwegian Air Argentina,Argentina,subsidiary of Norwegian Air Shuttle (Ceased operations 2019)
+DU,Norwegian Long Haul,Norway,subsidiary of Norwegian Air Shuttle (Ceased operations 2021)[48]
+DH,Norwegian Air Norway,Norway,subsidiary of Norwegian Air Shuttle
+D8,Norwegian Air Sweden,Sweden,subsidiary of Norwegian Air Shuttle
+BJ,Nouvel Air Tunisie,Tunisia,
+O9,Nova Airways,Sudan,
+1I,Novair,Sweden,
+VQ,Novo Air,Bangladesh,
+N6,Nuevo Continente,Peru,Operating license revoked by Chile 10/06/2002; Ceased operations 2005; Former name: Aero Continente
+1I,NetJets Europe,Portugal,
+IP,One Airlines,Chile,
+UQ,O'Connor Airlines,Australia,Defunct - Bankrupt
+OB,Oasis Airlines,Spain,defunct
+O8,Oasis Hong Kong Airlines,Hong Kong,Defunct
+VC,Ocean Airlines,Italy,
+O2,Linear Air,United States,Allocated in 2017
+OL,OLT Express Germany,Germany,
+OA,Olympic Air,Greece,
+WY,Oman Air,Oman,
+OV,SalamAir,Oman,Oman’s first Low Cost Carrier
+OY,Omni Air International,United States,
+8Q,Onur Air,Turkey,
+R2,Orenburg Airlines,Russia,
+OX,Orient Thai Airlines,Thailand,
+QO,Origin Pacific Airways,New Zealand,
+ON,Our Airline,Nauru,formerlyAir Nauru
+OJ,Overland Airways,Nigeria,
+OZ,Ozark Air Lines,United States,Defunct
+O7,OzJet,Australia,
+OA,Olympic Airlines,Greece,Defunct
+OB,Oasis International AirlinesNow assigned to Boliviana de Aviacion (BoA),Spain,Ceased operations
+PV,PAN Air,Spain,
+9Q,PB Air,Thailand,
+PU,PLUNA,Uruguay,
+U4,PMTair,Cambodia,Progress Multitrade
+OH,PSA Airlines,United States,part ofAmerican Airlines Group
+Y5,Pace Airlines,United States,Pace Airlinesas purchased by Hooters in December 2002.
+BL,Pacific Airlines,Vietnam,
+DJ,Pacific Blue,New Zealand,Controlled Dupe IATA withVirgin Australia
+8P,Pacific Coastal Airlines,Canada,
+Q8,Pacific East Asia Cargo Airlines,Philippines,
+LW,Pacific Wings,United States,
+GX,Pacificair,Philippines,
+PK,Pakistan International Airlines,Pakistan,
+GP,Palau Trans Pacific Airlines,Palau,
+PF,Palestinian Airlines,Egypt,
+NR,Pamir Airways,Afghanistan,
+7N,PAWA Dominicana,Dominican Republic,
+PN,Pan American Airways,United States,defunct
+PA,Pan American Airways,United States,defunct
+PA,Pan American World Airways,United States,defunct 1991
+P8,Pantanal Linhas Aéreas,Brazil,
+I7,Paramount Airways,India,
+P3,Passaredo Transportes Aéreos,Brazil,
+HP,Pearl Airways,Haiti,IATA code withdrawn
+PC,Pegasus Airlines,Turkey,"WAS 1I, H9"
+PE,People's,Austria,"Previously used byPegaviation, and PeopleExpress (US low cost carrier 1981-87)"
+1I,Pegasus Hava Tasimaciligi,Turkey,
+KS,Peninsula Airways,United States,
+P9,Perm Airlines,Russia,
+P9,Peruvian Airlines,Peru,
+Z2,Philippines AirAsia,Philippines,
+PR,Philippine Airlines,Philippines,
+HP,Phoenix Airways,Switzerland,
+9R,Phuket Air,Thailand,
+PI,Piedmont Airlines (1948-1989),United States,defunct
+9E,Pinnacle Airlines,United States,
+OG,Play,Iceland,[53]
+DP,Pobeda,Russia,
+PO,Polar Air Cargo,United States,
+PH,Polynesian Airlines,Samoa,
+DJ,Polynesian Blue,New Zealand,"Controlled Dupe IATA, Code reserved but not in use, PBN (Bluebird) used."
+1U,Polyot Sirena,Russia,
+PD,Porter Airlines,Canada,
+NI,Portugalia,Portugal,
+M4,Poste Air Cargo,Italy,
+BK,Potomac Air,United States,
+PW,Precision Air,Tanzania,
+TO,President Airlines,Cambodia,
+MO,Presidential Flight,United Arab Emirates,Presidential flight
+FE,Primaris Airlines,United States,
+8Q,Princess Air,,no longer assigned
+8W,Private Wings Flugcharter,Germany,
+P6,Privilege Style Líneas Aéreas,Spain,
+P0,Proflight Zambia,Zambia,
+PB,Provincial Airlines,Canada,
+FV,Pulkovo Aviation Enterprise,Russia,defunct merged intoRossiya (airline)
+QF,Qantas,Australia,
+QF,QantasLink,Australia,Turbo-Props
+QF,QantasLink,Australia,Qantaslink Jet Operations
+QR,Qatar Airways,Qatar,
+QW,Qingdao Airlines,China,
+R6,RACSA,Guatemala,
+1D,Radixx,United States,
+7H,Ravn Alaska,United States,2014[55]
+8L,Redhill Aviation,United Kingdom,
+V4,Reem Air,Kyrgyzstan,
+RX,Regent Airways,Bangladesh,
+YS,Régional,France,
+FN,Regional Air Lines,Morocco,
+ZL,Regional Express,Australia,
+P7,Regional Paraguaya,Paraguay,Defunct
+3C,RegionsAir,United States,formerly Corporate Airlines
+QQ,Reno Air,United States,defunct
+RC,Republic Airlines,United States,"defunct; 1979–1986, merged withNorthwest Airlines"
+RW,Republic Airways,United States,
+RH,Republic Express Airlines,Indonesia,
+C7,Rico Linhas Aéreas,Brazil,
+E2,Rio Grande Air,United States,defunct
+RL,Rio Linhas Aéreas,Brazil,
+SL,Rio Sul Serviços Aéreos Regionais,Brazil,defunct
+V2,Vision Airlines,United States,Charter Airline and Las Vegas Tours
+FV,Rossiya,Russia,Airline merged withPulkovo Aviation Enterpriseand renamed to Rossiya
+GZ,Air Rarotonga,Cook Islands,
+RR,Royal Air Force,United Kingdom,
+RS,Royal Air Force of Oman,Oman,
+AT,Royal Air Maroc,Morocco,
+R0,Royal Airlines,Pakistan,
+V5,Royal Aruban Airlines,Aruba,
+BI,Royal Brunei Airlines,Brunei,
+RJ,Royal Jordanian,Jordan,
+RK,Skyview Airways,THAILAND,2014[55]
+RK,Royal Khmer Airlines,Cambodia,
+RL,Royal Phnom Penh Airways,Cambodia,
+RR,Buzz (Ryanair),Poland,
+WR,Royal Tongan Airlines,Tonga,
+P7,Russian Sky Airlines,Russia,
+5R,Rutaca,Venezuela,
+WB,Rwandair Express,Rwanda,
+7S,Ryan Air Services,United States,
+RD,Ryan International Airlines,United States,defunct 2013
+FR,Ryanair,Ireland,
+RK,Ryanair UK,United Kingdom,
+RT,UVT Aero,Russia,
+TR,Scoot,Singapore,Former IATA: TZ Former ICAO: SCO; AdoptedTigeraircodes after theirmerger
+IJ,Spring Airlines Japan,Japan,
+6Y,Smartlynx Airlines,Latvia,
+QS,Smartwings,Czech Republic,formerly named Travel Service
+7O,Smartwings Hungary,Hungary,formerly named Travel Service Hungary
+3Z,Smartwings Poland,Poland,formerly named Travel Service Poland
+6D,Smartwings Slovakia,Slovakia,formerly named Travel Service Slovakia
+E3,Sabaidee Airways,Thailand,
+GG,Sky Lease Cargo,United States,
+GW,SkyGreece Airlines,Greece,defunct
+SH,Sharp Airlines,Australia,Uses unregistered ICAO & IATA.
+N9,Shree Airlines,Nepal,
+7E,Sylt Air GmbH,Germany,
+OL,Samoa Air,Samoa,
+S4,SATA International,Portugal,
+SA,South African Airways,South Africa,
+KV,Sky Regional Airlines,Canada,
+W7,Sayakhat Airlines,Kazakhstan,
+NL,Shaheen Air,Pakistan,
+MM,SAM Colombia,Colombia,Sociedad Aeronáutica De Medellín
+SK,Scandinavian Airlines,"Sweden, Denmark and Norway",
+PI,Sol del Paraguay,Paraguay,
+UG,Tunisair Express,Tunisia,
+S7,S7 Airlines,Russia,
+Q7,SkyBahamas,Bahamas,
+BB,Seaborne Airlines,United States,
+PV,St Barth Commuter,France,
+S5,Star Air (India),India,
+JX,Starlux Airlines,Taiwan,
+K5,SeaPort Airlines,United States,Former airline:Wings of Alaskanow part ofSeaPort Airlines. Alternative callsign: WINGS (for VFR flights only). Former ICAO code: WAK.
+W3,Switfair Cargo,Canada,
+FP,Servicios Aéreos de los Andes,Peru,2014[56]
+SY,Sun Country Airlines,United States,
+SG,Spicejet,India,
+I6,Sky Eyes,Thailand,
+EH,SAETA,Ecuador,
+7G,Star Flyer,Japan,
+FA,Safair,South Africa,
+N5,Skagway Air Service,United States,
+HZ,Sakhalinskie Aviatrassy(SAT),Russia,
+SP,SATA Air Acores,Portugal,
+8S,Scorpio Aviation,,
+ZY,Sky Airlines,Turkey,
+SQ,Singapore Airlines,Singapore,
+5M,Sibaviatrans,Russia,
+SI,Skynet Airlines,Ireland,2001–2004
+3M,Silver Airways,United States,
+XS,SITA,Belgium,
+ZS,Sama Airlines,Saudi Arabia,
+SQ,Singapore Airlines Cargo,Singapore,
+FT,Siem Reap Airways,Cambodia,
+SX,Sky Work Airlines,Switzerland,
+SM,Swedline Express,Sweden,Ceased operations 2006
+D2,Severstal Air Company,Russia,
+VD,SwedJet Airways,Sweden,
+QF,Sunstate Airlines,Australia,Uses IATA of parent QANTAS.
+5G,Skyservice Airlines,Canada,defunct
+RE,Stobart Air,Ireland,
+FS,Servicios de Transportes Aéreos Fueguinos,Argentina,ICAO and call sign not current
+SD,Sudan Airways,Sudan,
+PI,Sun Air (Fiji),Fiji,
+LW,Sun Air International,United States,
+EZ,Sun Air of Scandinavia,Denmark,
+SV,Saudia,Saudi Arabia,
+WN,Southwest Airlines,United States,
+A4,Southern Winds Airlines,Argentina,
+WG,Sunwing Airlines,Canada,
+WQ,Swift Air(Interstate Equipment Leasing),United States,
+LX,Swiss International Air Lines,Switzerland,
+SR,Swissair,Switzerland,defunct
+SR,Sundair,Germany,
+LZ[60],Swiss Global Air Lines,Switzerland,
+WV,Swe Fly,Sweden,
+S8,Shovkoviy Shlyah,Ukraine,
+Q4,Swazi Express Airways,Eswatini,
+WO,Swoop,Canada,
+S8,Skywise Airline,South Africa,
+XQ,SunExpress,Turkey,
+RB,Syrian Arab Airlines,Syrian Arab Republic,
+AL,Skywalk Airlines,United States,(Astral Aviation)
+ZP,Silk Way Airlines,Azerbaijan,
+7L,Silk Way West Airlines,Azerbaijan,
+E5,Samara Airlines,Russia,defunct
+E5,Air Arabia Egypt,Egypt,
+SC,Shandong Airlines,China,
+SK,SAS Braathens,Norway,
+9C,Spring Airlines,China,
+3U,Sichuan Airlines,China,
+FM,Shanghai Airlines,China,Part ofChina Eastern Airlines
+ZH,Shenzhen Airlines,China,
+8C,Corendon Airlines Europe,Malta,
+7L,Sun D'Or,Israel,
+NE,SkyEurope,Slovakia,defunct
+CQ,Sunshine Express Airlines,Australia,
+SO,Superior Aviation,United States,
+KI,SKS Airways,Malaysia,Operates scheduled flights to outlying islands from Subang Airport to Redang and Tioman.
+TE,Skytaxi,Poland,
+JK,Spanair,Spain,defunct
+RZ*,Sansa,Costa Rica,
+2G*,San Juan Airlines,United States,
+1Z,Sabre Pacific,Australia,
+1S,Sabre,United States,
+1I,Sierra Nevada Airlines,United States,
+1H,Siren-Travel,Russia,
+1Q,Sirena,Russia,
+1K,Southern Cross Distribution,Australia,
+1K,Sutra,United States,
+2C,SNCF,France,
+2S,Star Equatorial Airlines,Guinea,
+NK,Spirit Airlines,United States,
+S0,Slok Air Gambia,Gambia,
+SO,Sosoliso Airlines,Nigeria,
+VA,Virgin Australia Regional Airlines,Australia,
+1I,Sky Trek International Airlines,United States,
+SX,Skybus Airlines,United States,defunct
+RU,SkyKing Turks and Caicos Airways,Turks and Caicos Islands,IATA was QW
+S3,Santa Barbara Airlines,Venezuela,
+XT,SkyStar Airways,Thailand,
+H2,Sky Airline,Chile,
+OO,SkyWest Airlines,United States,
+JZ,Skyways Express,Sweden,Ceased operations 2012; Operations continue asAvia Express
+BC,Skymark Airlines,Japan,
+LJ,Sierra National Airlines,Sierra Leone,
+MI,SilkAir,Singapore,Merged withSingapore Airlines
+6Q,Slovak Airlines,Slovakia,
+PY,Surinam Airways,Suriname,
+8D,Servant Air,United States,
+NB,Sterling Airlines,Denmark,
+6J,Solaseed Air,Japan,
+IE,Solomon Airlines,Solomon Islands,
+9X,Southern Airways,United States,
+6W,Saratov Airlines Joint Stock Company,Russia,
+HZ,Sat Airlines,Kazakhstan,
+S5,Shuttle America,United States,
+DV,Scat Air,Kazakhstan,
+R1,Sirin,,
+O3,SF Airlines,China,
+PQ,SkyUp,Ukraine,
+U5,SkyUp MT,Malta,
+S5,Small Planet Airlines,Lithuania,defunct
+P7,Small Planet Airlines,Poland,defunct
+P2,Small Planet Airlines,Italy,defunct
+5P,Small Planet Airlines,Germany,defunct
+UL,SriLankan Airlines,Sri Lanka,
+DJ,Star Air,Denmark,
+V9,Star1 Airlines,Lithuania,defunct
+Q4,Starlink Aviation,Canada,
+XG,Sunexpress Deutschland,Germany,
+SO,Sunshine Airlines,,defunct
+TC,Air Tanzania Company Limited,Tanzania,
+9L,AirTanker Services,United Kingdom,
+DG,Cebgo,Philippines,"Formerly SEAir, South East Asian  Airlines and Tigerair Philippines"
+LS,Jet2,United Kingdom,Started in 1983
+1L,Open Skies Consultative Commission,United States,
+2S,Satgur Air Transport,Liberia,defunct
+DT,TAAG Angola Airlines,Angola,
+VR,TACV,Cape Verde,
+TI,Tailwind Airlines,Turkey,
+PZ,TAM  Mercosur,Paraguay,
+EQ,TAME,Ecuador,Transporte Aéreos Militares  Ecuatorianos
+QT,TAMPA,Colombia,
+TQ,Tandem  Aero,Moldova,
+TP,TAP  Portugal,Portugal,
+K3,Taquan Air Services,United States,
+RO,Tarom,Romania,
+HJ,Tasman Cargo Airlines,Australia,[citation needed]
+SF,Tassili  Airlines,Algeria,
+T6,Tavrey  Airlines,Ukraine,
+L6,Tbilaviamsheni,Georgia,
+L9,Teamline  Air,Austria,
+U8,Tel Aviv Air,Germany,defunct
+K9,TezJet  Airlines,Kyrgyzstan,Started in 2014
+T2,Thai  Air Cargo,Thailand,
+FD,Thai  AirAsia,Thailand,
+XJ,Thai  AirAsia X,Thailand,
+TG,Thai Airways International,Thailand,
+TXZ,Thai Express Air,Thailand,
+SL,Thai  Lion Mentari,Thailand,
+9I,Thai Sky Airlines,Thailand,
+WE,Thai Smile  Airways,Thailand,
+T9,Thai Star Airlines,Thailand,
+VZ,Thai  Vietjet Air,Thailand,
+2H,Thalys,Belgium,Not an airline (train). Used for  codesharing
+HQ,Thomas Cook Airlines,Belgium,Defunct
+MT,Thomas Cook Airlines,United Kingdom,
+GS,Tianjin  Airlines,China,
+3P,Tiara Air,Aruba,
+TT,Tigerair Australia,Australia,"Previously TGW, callsign GO CAT"
+TR,Tigerair  Singapore,Singapore,Merged with Scoot
+IT,Tigerair  Taiwan,Taiwan,
+ZT,Titan  Airways,United Kingdom,
+3V,TNT  Airways,Belgium,
+7T,Tobruk Air,Libya,
+TI,Tol-Air  Services,United States,
+TJ,Tradewind Aviation,United States,
+TL,Trans  Mediterranean Airlines,Lebanon,
+AX,Trans States Airlines,United States,
+TW,Trans World Airlines,United States,
+UN,Transaero Airlines,Russia,
+GE,TransAsia Airways,Taiwan,defunct
+TO,Transavia  France,France,
+HV,Transavia Holland,Netherlands,
+AL,TransAVIAexport Airlines,Belarus,
+TR,Transbrasil,Brazil,defunct
+UE,Transeuropean Airlines,Russia,
+T9,TransMeridian Airlines,United States,Defunct
+TH,Raya Airways,Malaysia,
+TX,Transportes Aéreos Nacionales,Honduras,Defunct
+OF,Transports et Travaux  Aériens de Madagascar,Madagascar,
+9T,Transwest  Air,Canada,
+S5,Trast Aero,Kyrgyzstan,
+1E,Travelsky Technology,China,
+GY,Tri-MG Intra Asia Airlines,Indonesia,
+T4,TRIP Linhas Aéreas,Brazil,IATA code 8R changed to T4  (2010)
+PM,Tropic Air,Belize,
+M7,Tropical  Airways,Haiti,
+TZ,Tsaradia,Madagascar,
+BY,TUI  Airways,United Kingdom,"Formerly ""TOMSON"""
+TB,TUI  fly Belgium,Belgium,
+X3,TUI fly Deutschland,Germany,
+OR,TUI fly Netherlands,Netherlands,
+6B,TUI  fly Nordic,Sweden,
+TD,Tulip Air,Netherlands,
+UG,Tuninter,Tunisia,
+TU,Tunisair,Tunisia,
+3T,Turan Air,Azerbaijan,
+TK,Turkish  Airlines,Turkey,
+T5,Turkmenistan Airlines,Turkmenistan,
+TW,T'way Air,Republic of Korea,
+T7,Twin Jet,France,
+VO,Tyrolean  Airways,Austria,Renamed from Austrian Arrows
+VNX,flyADVANCED,United States,Aero Ways Inc. flyADVANCED
+B7,UNI Air,Taiwan,
+UA,United Airlines,United States,
+4H,United Airways,Bangladesh,
+U7,USA Jet Airlines,United States,
+U6,Ural Airlines,Russia,
+QU,Uganda Airlines (1976–2001),Uganda,Ceased operations 2001
+UR,Uganda Airlines,Uganda,Started operations in 2019
+UF,UM Airlines,Ukraine,Ukraine Mediterranean Airlines
+6Z,Ukrainian Cargo Airways,Ukraine,
+OL,Ultra Air,Colombia,
+5X,United Parcel Service,United States,
+US,US Airways,United States,"defunct, merged withAmerican Airlinesin 2015"
+BS,US-Bangla Airlines,Bangladesh,
+UH,US Helicopter,United States,
+QU,UTair-Ukraine,Ukraine,
+UT,UTair Aviation,Russia,WAS P2 till 2006
+HY,Uzbekistan Airways,Uzbekistan,
+PS,Ukraine International Airlines,Ukraine,
+US,Unavia Suisse,Switzerland,
+JW,Vanilla Air,Japan,Merged withPeach Aviation
+VU,Vietravel Airlines,Vietnam,
+VB,VivaAerobus,Mexico,
+VA,Virgin Australia,Australia,"Previously Used: KANGA, AURORA, VEE-OZ"
+VF,Valuair,Singapore,Merged withJetstar Asia
+J7,ValuJet Airlines,United States,Now operating as AirTran Airways. J7 Reassigned.
+0V,Vietnam Air Services Company(VASCO),Vietnam,
+VC,Voyageur Airways,Canada,
+VN,Vietnam Airlines,Vietnam,
+NN,VIM Airlines,Russia,
+2R,Via Rail Canada,Canada,
+VA,Viasa,Venezuela,IATA Code transferred toVirgin Australia
+Y4,Volaris,Mexico,
+VI,Volga-Dnepr Airlines,Russia,
+VX,Virgin America,United States,Merged withAlaska Airlines
+VJ,Vietjet Air,Vietnam,
+V4,Vieques Air Link,United States,
+TV,Virgin Express,Belgium,defunct
+VK,Virgin Nigeria Airways,Nigeria,
+VS,Virgin Atlantic,United Kingdom,
+ZG,Viva Macau,Macao,defunct
+VE,C.A.I. Second,Italy,
+VY,Vueling Airlines,Spain,
+XF,Vladivostok Air,Russia,Merged withAurora
+LC,Varig Logística,Brazil,defunct
+VM,Viaggio Air,Bulgaria,
+9V,Vipair Airlines,Kazakhstan,defunct
+RG,Varig,Brazil,
+VH,Viva Air Colombia,Colombia,"Commenced operations on May 25, 2012"
+VP,VASP,Brazil,defunct
+V7,Volotea,Spain,
+VG,VLM Airlines,Belgium,defunct
+G6,Air Volga,Russia,
+UK,Vistara,India,Commenced operations 9 January 2015
+WD,WDL Aviation,Germany,
+WT,Wasaya Airways,Canada,
+WH,WebJet Linhas Aéreas,Brazil,
+2W,Welcome Air,Austria,
+WZ,West African Airlines,Benin,
+PN,West Air (China),China,
+PT,West Air Sweden,Sweden,
+YH,West Caribbean Airways,Colombia,
+8O,West Coast Air,Canada,
+WS,WestJet,Canada,
+ST*,"Western Aircraft, Inc",United States,
+WA,Western Airlines,United States,defunct
+WA,KLM Cityhopper,the Netherlands,
+W7,Western Pacific Airlines,United States,
+CN,Westward Airways,United States,
+WF,Widerøe,Norway,
+WC,Wien Air Alaska,United States,Wien Consolidated Airlines from 1968-1973
+IV,Wind Jet,Italy,
+7W,Windrose Air,Germany,
+IW,Wings Air,Indonesia,Subsidiary ofLion Air
+8Z,Wizz Air Bulgaria,Bulgaria,defunct in 2011
+W6,Wizz Air,Hungary,
+W4,Wizz Air Malta,Malta,
+W9,Wizz Air UK,United Kingdom,
+WO,World Airways,United States,
+1P,Worldspan,United States,
+UI,SW Italia,Italy,
+WW,WOW air,Iceland,
+8V,Wright Air Service,United States,
+KW,Wataniya Airways,Kuwait,
+3W*,Wan Air,French Polynesia,defunct
+WR,WestJet Encore,Canada,
+7A,Express Air Cargo,Tunisia,
+MF,Xiamen Airlines,China,
+SE,XL Airways France,France,
+XN,XpressAir,Indonesia,Renamed from Travel Express  Aviation Services in 2012
+YL,Yamal Airlines,Russia,
+R3,Yakutia Airlines,Russia,
+Y8,Suparna Airlines,China,Former name: Yangtze River Express
+Y0,Yellow Air Taxi/Friendship Airways,United States,
+IY,Yemenia,Yemen,
+YT,Yeti Airlines,Nepal,Domestic
+4Y,Yute Air Alaska,United States,defunct 2017
+2N,Yuzhmashavia,Ukraine,
+C4,Zimex Aviation,Switzerland,
+Q3,Zambian Airways,Zambia,
+3J,Zip,Canada,ICAO Code and callsign no longer allocated
+ZG,Zipair Tokyo,Japan,Subsidiary ofJapan Airlines
+Z4,Zoom Airlines,Canada,"defunct, ICAO Code and callsign no longer allocated"
